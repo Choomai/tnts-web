@@ -1,0 +1,11 @@
+{
+  "name": "tnts-web",
+  "version": "0.0.1",
+  "description": "TNTS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Choomai",
+  "license": "Unlicense"
+}
